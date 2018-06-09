@@ -1,7 +1,8 @@
-baseURL = "http://www.example.com"
+baseURL = "https://github.com/sumantabose/minimo"
 title = "Minimo"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
+publishDir = "docs"
 
 theme = "minimo"
 
