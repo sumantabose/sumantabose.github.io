@@ -1,4 +1,4 @@
-baseURL = "https://github.com/sumantabose/minimo"
+baseURL = "https://github.com/sumantabose/minimo/docs"
 title = "Minimo"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
