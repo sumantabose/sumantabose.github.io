@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/authors/</loc>
+    <loc>https://github.com/sumantabose/minimo/authors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://github.com/sumantabose/minimo/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://github.com/sumantabose/minimo/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>https://github.com/sumantabose/minimo/series/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://github.com/sumantabose/minimo/tags/</loc>
     <priority>0</priority>
   </url>
   
