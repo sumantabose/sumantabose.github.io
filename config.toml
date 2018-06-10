@@ -5,7 +5,7 @@ title = "Minimo"
 copyright = ""
 publishDir = "docs"
 
-theme = "minimo"
+theme = "minimo-loc"
 
 disqusShortname = ""
 googleAnalytics = ""
