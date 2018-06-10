@@ -24,7 +24,7 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "Homepage"
+description = "Senior Research Engineer"
 title404 = "No sign of life! Try later :("
 
 [params.assets]
@@ -47,7 +47,8 @@ archiveDateFormat = "Jan 02"
 hideEntryNavigation = ["page"] # boolean / array of sections
 showReadingTime = true
 taxonomyCloudShuffle = true
-accentColor = "#ffcd00"
+# accentColor = "#ffcd00"
+accentColor = "#a8a8a8"
 hideMainMenu = false
 
 [params.sidebar]
@@ -73,7 +74,7 @@ titleSeparator = "•"
 [params.social]
 # codepen = "MunifTanjim"
 email = "sumantabose@gmail.com"
-# facebook = "sumantab"
+facebook = "sumantab"
 github = "sumantabose"
 # gitlab = "MunifTanjim"
 instagram = "sumobose"
@@ -119,4 +120,8 @@ hrefTargetBlank = true
 [languages.en]
 lang = "en"
 languageName = "English"
+weight = 1
+[languages.es]
+lang = "es"
+languageName = "Spanish"
 weight = 1
