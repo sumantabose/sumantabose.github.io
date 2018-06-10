@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Muniftanjim on Minimo</title>
+    <title>Muniftanjim on Sumanta Bose</title>
     <link>/authors/muniftanjim/</link>
-    <description>Recent content in Muniftanjim on Minimo</description>
+    <description>Recent content in Muniftanjim on Sumanta Bose</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 28 Sep 2017 08:00:00 +0600</lastBuildDate>
     
@@ -156,27 +156,13 @@ You can use these options in you content&amp;rsquo;s front-matter:
     </item>
     
     <item>
-      <title>Authors Setup Guide</title>
-      <link>/docs/authors/</link>
-      <pubDate>Tue, 26 Sep 2017 06:00:00 +0600</pubDate>
-      
-      <guid>/docs/authors/</guid>
-      <description>Minimo supports multiple authors for your site. Just make sure you have the following configuration in your site&amp;rsquo;s config.toml:
-[taxonomies] author = &amp;#34;authors&amp;#34; Minimo treats Authors as a Hugo Taxonomy.
-Author&amp;rsquo;s Profile For adding an author to your site:
- Create data/authors folder in your site&amp;rsquo;s root directory Create a file with the filename format: &amp;lt;username&amp;gt;.toml  Now, add information about the author using the structure below:
-/data/authors/muniftanjim.toml
-id = &amp;#34;muniftanjim&amp;#34; [email] username = &amp;#34;muniftanjim&amp;#34; host = &amp;#34;gmail.</description>
-    </item>
-    
-    <item>
       <title>Configuration File: config.toml</title>
       <link>/docs/config-file/</link>
       <pubDate>Mon, 25 Sep 2017 08:00:00 +0600</pubDate>
       
       <guid>/docs/config-file/</guid>
       <description>This is the Minimo&amp;rsquo;s configuraion file ( config.toml ) file of this site:
-baseURL = &amp;#34;&amp;#34; relativeURLs = true title = &amp;#34;Minimo&amp;#34; # for smart copyright line, leave this blank and check [params.copyright] copyright = &amp;#34;&amp;#34; publishDir = &amp;#34;docs&amp;#34; theme = &amp;#34;minimo-loc&amp;#34; disqusShortname = &amp;#34;&amp;#34; googleAnalytics = &amp;#34;&amp;#34; Paginate = 5 preserveTaxonomyNames = true enableRobotsTXT = true # generate robots.txt # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ ) pygmentsCodefences = true enableEmoji = true # Missing translations will default to this content language defaultContentLanguage = &amp;#34;en&amp;#34; [params.</description>
+baseURL = &amp;#34;&amp;#34; relativeURLs = true title = &amp;#34;Sumanta Bose&amp;#34; # for smart copyright line, leave this blank and check [params.copyright] copyright = &amp;#34;&amp;#34; publishDir = &amp;#34;docs&amp;#34; theme = &amp;#34;minimo-loc&amp;#34; disqusShortname = &amp;#34;&amp;#34; googleAnalytics = &amp;#34;&amp;#34; Paginate = 20 preserveTaxonomyNames = true enableRobotsTXT = true # generate robots.txt # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ ) pygmentsCodefences = true enableEmoji = true # Missing translations will default to this content language defaultContentLanguage = &amp;#34;en&amp;#34; [params.</description>
     </item>
     
     <item>

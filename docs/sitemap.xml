@@ -4,7 +4,12 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+    <lastmod>2018-06-10T22:00:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/research/</loc>
+    <lastmod>2018-06-10T22:00:25+08:00</lastmod>
   </url>
   
   <url>
@@ -159,7 +164,7 @@
   
   <url>
     <loc>/page/</loc>
-    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+    <lastmod>2018-06-10T22:00:25+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -177,6 +182,12 @@
   <url>
     <loc>/tags/shortcode/</loc>
     <lastmod>2017-10-05T20:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sumantabose/</loc>
+    <lastmod>2017-10-11T17:30:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   

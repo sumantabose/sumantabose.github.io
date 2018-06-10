@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Minimo</title>
+    <title>Authors on Sumanta Bose</title>
     <link>/authors/</link>
-    <description>Recent content in Authors on Minimo</description>
+    <description>Recent content in Authors on Sumanta Bose</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
@@ -15,6 +15,15 @@
       <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
       
       <guid>/authors/muniftanjim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sumantabose</title>
+      <link>/authors/sumantabose/</link>
+      <pubDate>Tue, 26 Sep 2017 06:00:00 +0600</pubDate>
+      
+      <guid>/authors/sumantabose/</guid>
       <description></description>
     </item>
     
