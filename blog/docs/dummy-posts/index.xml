@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dummy-posts on Sumanta&#39;s Blog</title>
+    <link>/dummy-posts/</link>
+    <description>Recent content in Dummy-posts on Sumanta&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Copyright 2018 Sumanta Bose</copyright>
+    <lastBuildDate>Sun, 10 Jun 2018 19:35:50 +0800</lastBuildDate>
+    
+	<atom:link href="/dummy-posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>X</title>
+      <link>/dummy-posts/x/</link>
+      <pubDate>Sun, 10 Jun 2018 19:35:50 +0800</pubDate>
+      
+      <guid>/dummy-posts/x/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>9</title>
+      <link>/dummy-posts/9/</link>
+      <pubDate>Sun, 10 Jun 2018 19:35:47 +0800</pubDate>
+      
+      <guid>/dummy-posts/9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>8</title>
+      <link>/dummy-posts/8/</link>
+      <pubDate>Sun, 10 Jun 2018 19:35:44 +0800</pubDate>
+      
+      <guid>/dummy-posts/8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>7</title>
+      <link>/dummy-posts/7/</link>
+      <pubDate>Sun, 10 Jun 2018 19:35:43 +0800</pubDate>
+      
+      <guid>/dummy-posts/7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6</title>
+      <link>/dummy-posts/6/</link>
+      <pubDate>Sun, 10 Jun 2018 19:35:41 +0800</pubDate>
+      
+      <guid>/dummy-posts/6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5</title>
+      <link>/dummy-posts/5/</link>
+      <pubDate>Sun, 10 Jun 2018 19:35:38 +0800</pubDate>
+      
+      <guid>/dummy-posts/5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4</title>
+      <link>/dummy-posts/4/</link>
+      <pubDate>Sun, 10 Jun 2018 19:35:36 +0800</pubDate>
+      
+      <guid>/dummy-posts/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3</title>
+      <link>/dummy-posts/3/</link>
+      <pubDate>Sun, 10 Jun 2018 19:35:35 +0800</pubDate>
+      
+      <guid>/dummy-posts/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>/dummy-posts/2/</link>
+      <pubDate>Sun, 10 Jun 2018 19:35:33 +0800</pubDate>
+      
+      <guid>/dummy-posts/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1</title>
+      <link>/dummy-posts/1/</link>
+      <pubDate>Sun, 10 Jun 2018 19:35:31 +0800</pubDate>
+      
+      <guid>/dummy-posts/1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

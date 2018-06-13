@@ -107,10 +107,10 @@ tag = "tags"
 page = "/:slug/"
 
 [[menu.main]]
-name = "Repo"
+name = "Blog"
 weight = -10
 identifier = "repository"
-url = "https://github.com/sumantabose"
+url = "blog/docs/index.html"
 
 [blackfriday]
 hrefTargetBlank = true
