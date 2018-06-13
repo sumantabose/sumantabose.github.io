@@ -1,16 +1,114 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>en/sitemap.xml</loc>
-		
-	   	<lastmod>2018-06-10T22:00:25+08:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>es/sitemap.xml</loc>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-06-10T22:00:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/research/</loc>
+    <lastmod>2018-06-10T22:00:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/publications/</loc>
+    <lastmod>2018-06-10T22:00:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2018-06-14T03:21:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+    <lastmod>2018-06-10T22:00:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/typography/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/karma-ways/</loc>
+    <lastmod>2018-06-14T03:21:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/donald-trump-joker/</loc>
+    <lastmod>2018-06-14T03:20:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/defeating-fear/</loc>
+    <lastmod>2018-06-14T03:19:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/author-setup-guide/</loc>
+    <lastmod>2018-06-14T03:18:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/authors/</loc>
+    <lastmod>2018-06-14T03:21:27+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/config/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/features/</loc>
+    <lastmod>2018-06-14T03:21:27+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/muniftanjim/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/og/</loc>
+  </url>
+  
+  <url>
+    <loc>/page/</loc>
+    <lastmod>2018-06-10T22:00:25+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/series/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sumantabose/</loc>
+    <lastmod>2018-06-14T03:21:27+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

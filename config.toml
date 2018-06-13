@@ -56,8 +56,8 @@ enable = true
 
 [params.widgets]
 homepage = ["recent_posts"]
-sidebar = ["about","sidebar_menu","taxonomy_cloud","social_menu"]
-footer = ["social_menu"]
+sidebar = ["about","sidebar_menu","social_menu"]#,"taxonomy_cloud","social_menu"]
+#footer = ["social_menu"]
 
 [params.opengraph.facebook]
 admins = [] # array of Facebook IDs
@@ -104,13 +104,14 @@ series = "series"
 tag = "tags"
 
 [permalinks]
+post = "/:year/:month/:title/"
 page = "/:slug/"
 
-[[menu.main]]
-name = "Blog"
-weight = -10
-identifier = "repository"
-url = "http://sumantabose.me/blog/"
+# [[menu.main]]
+# name = "Repo"
+# weight = -10
+# identifier = "repository"
+# url = "https://github.com/sumantabose"
 
 [blackfriday]
 hrefTargetBlank = true
@@ -121,7 +122,7 @@ hrefTargetBlank = true
 lang = "en"
 languageName = "English"
 weight = 1
-[languages.es]
-lang = "es"
-languageName = "Spanish"
-weight = 1
+#[languages.es]
+#lang = "es"
+#languageName = "Spanish"
+#weight = 1

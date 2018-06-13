@@ -9,10 +9,10 @@ tags:
   - menus
 slug: menus
 toc: true
-menu:
-  sidebar:
-    name: Menus
-    parent: docs
+#menu:
+#  sidebar:
+#    name: Menus
+#    parent: blog
 ---
 Minimo has three menus.
 

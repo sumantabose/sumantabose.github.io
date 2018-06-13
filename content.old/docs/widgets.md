@@ -10,9 +10,9 @@ tags:
   - widgets
 slug: widgets
 toc: true
-menu:
-  sidebar:
-    parent: docs
+#menu:
+#  sidebar:
+#    parent: blog
 ---
 Minimo supports _**Widgets**_ that you can place on specific _**Widget Areas**_.
 

@@ -11,12 +11,48 @@
     
     
     <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I was once a kid.
+And then I grew up.
+Sad.</description>
+    </item>
+    
+    <item>
       <title>Research</title>
       <link>/research/</link>
       <pubDate>Sun, 10 Jun 2018 22:00:25 +0800</pubDate>
       
       <guid>/research/</guid>
       <description>This page is about research.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Sun, 10 Jun 2018 22:00:25 +0800</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>This page is about publications.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Sun, 10 Jun 2018 22:00:25 +0800</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Sumanta Bose
+Hardware &amp;amp; Embedded Systems Lab
+N4-B2B-05, Blk N4, 50 Nanyang Avenue
+Computer Science and Engineering
+Nanyang Technological University
+Singapore - 639798
+Email: sumanta001@e.ntu.edu.sg
+Phone: +65 98612535</description>
     </item>
     
     <item>
@@ -28,17 +64,6 @@
       <description>Here is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Heading 2 Another one. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Heading 3 Yet another, but centered! Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Mínimo is a Spanish word that roughly translate to Minimal.
-Minimo is a minimalist theme for Hugo.
-Minimo keeps the focus on your content and lets it shine!</description>
     </item>
     
   </channel>
