@@ -1,5 +1,5 @@
 baseurl = ""
-relativeURLs = true
+# relativeURLs = true
 publishDir = "docs"
 title = "Sumanta's Blog"
 theme = "whiteplain-loc"
