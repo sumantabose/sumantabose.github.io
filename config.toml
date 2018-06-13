@@ -1,5 +1,5 @@
 baseURL = ""
-relativeURLs = true
+# relativeURLs = true
 title = "Sumanta Bose"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
@@ -110,7 +110,7 @@ page = "/:slug/"
 name = "Blog"
 weight = -10
 identifier = "repository"
-url = "blog/docs/"
+url = "blog/docs/index.html"
 
 [blackfriday]
 hrefTargetBlank = true
