@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "http://sumantabose.me/new-site/blog/"
 # relativeURLs = true
 publishDir = "docs"
 title = "Sumanta's Blog"
