@@ -110,7 +110,7 @@ page = "/:slug/"
 name = "Blog"
 weight = -10
 identifier = "repository"
-url = "blog/docs/index.html"
+url = "../blog/docs/index.html"
 
 [blackfriday]
 hrefTargetBlank = true
