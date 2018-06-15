@@ -13,7 +13,7 @@ excludeTypes = ["page"]               # default: ["page"]
 # Sidebar Menu Widget config
 [sidebar_menu]
 title = ""                            # default: ""
-mirror = "main"                           # default: ""
+mirror = ""                           # default: ""
 
 # Social Menu Widget config
 [social_menu]
