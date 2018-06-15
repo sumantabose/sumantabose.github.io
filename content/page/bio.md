@@ -1,7 +1,9 @@
 ---
 title: About
 description: What is the story of my life?!
-menu: main
+menu:
+  - main
+  - sidebar
 weight: -270
 ---
 
