@@ -5,6 +5,8 @@ description: A little bit of everything, through my eyes.. Tech, Travel, Food, Q
 menu:
   main:
     identifier: blog
+  sidebar:
+    identifier: blog
 weight: -240
 slug: docs
 ---
