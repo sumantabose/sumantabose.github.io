@@ -27,6 +27,14 @@
   </url>
   
   <url>
+    <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
     <loc>/contact/</loc>
     <lastmod>2018-06-10T22:00:25+08:00</lastmod>
   </url>
@@ -67,10 +75,6 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-  </url>
-  
-  <url>
     <loc>/tags/config/</loc>
   </url>
   
@@ -105,11 +109,6 @@
     <loc>/authors/sumantabose/</loc>
     <lastmod>2018-06-14T03:21:27+08:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2018-06-14T03:21:27+08:00</lastmod>
   </url>
   
 </urlset>
