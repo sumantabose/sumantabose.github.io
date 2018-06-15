@@ -5,4 +5,5 @@ menu:
   sidebar:
     name: Categories
     parent: blog
+weight: -233
 ---
