@@ -56,17 +56,6 @@ Phone: +65 98612535</description>
     </item>
     
     <item>
-      <title>Typography</title>
-      <link>/typography/</link>
-      <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
-      
-      <guid>/typography/</guid>
-      <description>Here is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Heading 2 Another one. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Heading 3 Yet another, but centered! Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
       <title>Karma and its ways!</title>
       <link>/blog/karma-ways/</link>
       <pubDate>Thu, 14 Jun 2018 03:21:27 +0800</pubDate>
@@ -120,6 +109,17 @@ Author&amp;rsquo;s Profile For adding an author to your site:
  Create data/authors folder in your site&amp;rsquo;s root directory Create a file with the filename format: &amp;lt;username&amp;gt;.toml  Now, add information about the author using the structure below:
 /data/authors/muniftanjim.toml
 id = &amp;#34;muniftanjim&amp;#34; [email] username = &amp;#34;muniftanjim&amp;#34; host = &amp;#34;gmail.</description>
+    </item>
+    
+    <item>
+      <title>Typography</title>
+      <link>/typography/</link>
+      <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
+      
+      <guid>/typography/</guid>
+      <description>Here is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Heading 2 Another one. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Heading 3 Yet another, but centered! Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
   </channel>

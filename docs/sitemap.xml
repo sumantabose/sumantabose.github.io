@@ -40,11 +40,6 @@
   </url>
   
   <url>
-    <loc>/typography/</loc>
-    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/karma-ways/</loc>
     <lastmod>2018-06-14T03:21:27+08:00</lastmod>
   </url>
@@ -62,6 +57,11 @@
   <url>
     <loc>/blog/author-setup-guide/</loc>
     <lastmod>2018-06-14T03:18:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/typography/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
   </url>
   
   <url>
