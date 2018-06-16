@@ -53,17 +53,13 @@ id = &amp;#34;muniftanjim&amp;#34; [email] username = &amp;#34;muniftanjim&amp;#
     </item>
     
     <item>
-      <title>Authors Setup Guide</title>
-      <link>/blog/author-setup-guide/</link>
+      <title>Git-Playground</title>
+      <link>/blog/git-playground/</link>
       <pubDate>Thu, 14 Jun 2018 03:18:27 +0800</pubDate>
       
-      <guid>/blog/author-setup-guide/</guid>
-      <description>Minimo supports multiple authors for your site. Just make sure you have the following configuration in your site&amp;rsquo;s config.toml:
-[taxonomies] author = &amp;#34;authors&amp;#34; Minimo treats Authors as a Hugo Taxonomy.
-Author&amp;rsquo;s Profile For adding an author to your site:
- Create data/authors folder in your site&amp;rsquo;s root directory Create a file with the filename format: &amp;lt;username&amp;gt;.toml  Now, add information about the author using the structure below:
-/data/authors/muniftanjim.toml
-id = &amp;#34;muniftanjim&amp;#34; [email] username = &amp;#34;muniftanjim&amp;#34; host = &amp;#34;gmail.</description>
+      <guid>/blog/git-playground/</guid>
+      <description>This is a playground to learn and practice git commands and implementation details. Here we will learn how Git works.
+Setting config values $ git config --list (to check username &amp;amp; email in local repo) $ git config --local user.name &amp;#34;username&amp;#34; (local repo) $ git config --local user.email &amp;#34;useremail@domain.com&amp;#34; (local repo) $ git config --global user.name &amp;#34;username&amp;#34; (global systemwide) $ git config --global user.email &amp;#34;useremail@domain.com&amp;#34; (global systemwide) Setting credential values $ git config credential.</description>
     </item>
     
   </channel>
