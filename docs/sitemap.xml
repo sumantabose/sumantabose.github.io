@@ -40,34 +40,28 @@
   </url>
   
   <url>
-    <loc>/blog/karma-ways/</loc>
+    <loc>/blog/robust-smart-contracts-openzeppelin/</loc>
     <lastmod>2018-06-14T03:21:27+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/donald-trump-joker/</loc>
+    <loc>/blog/truffle-pet-shop-guide/</loc>
     <lastmod>2018-06-14T03:20:27+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/defeating-fear/</loc>
+    <loc>/blog/ethereum-smart-contract-beginners/</loc>
     <lastmod>2018-06-14T03:19:27+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/author-setup-guide/</loc>
+    <loc>/blog/git-playground/</loc>
     <lastmod>2018-06-14T03:18:27+08:00</lastmod>
   </url>
   
   <url>
     <loc>/typography/</loc>
     <lastmod>2017-09-28T08:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/authors/</loc>
-    <lastmod>2018-06-14T03:21:27+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -79,8 +73,14 @@
   </url>
   
   <url>
-    <loc>/categories/features/</loc>
+    <loc>/tags/ethereum/</loc>
     <lastmod>2018-06-14T03:21:27+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/git/</loc>
+    <lastmod>2018-06-14T03:18:27+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -106,7 +106,25 @@
   </url>
   
   <url>
+    <loc>/tags/smart-contract/</loc>
+    <lastmod>2018-06-14T03:21:27+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/sumantabose/</loc>
+    <lastmod>2018-06-14T03:21:27+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/truffle/</loc>
+    <lastmod>2018-06-14T03:20:27+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/tutorials/</loc>
     <lastmod>2018-06-14T03:21:27+08:00</lastmod>
     <priority>0</priority>
   </url>
