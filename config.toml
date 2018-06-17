@@ -57,7 +57,7 @@ enable = true
 [params.widgets]
 homepage = ["recent_posts"]
 sidebar = ["about","sidebar_menu","social_menu"]#,"taxonomy_cloud","social_menu"]
-#footer = ["social_menu"]
+footer = ["powered_by"]
 
 [params.opengraph.facebook]
 admins = [] # array of Facebook IDs
