@@ -1,5 +1,5 @@
 baseURL = "http://sumantabose.me/new-site/"
-relativeURLs = true
+#relativeURLs = true
 title = "Sumanta Bose"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
