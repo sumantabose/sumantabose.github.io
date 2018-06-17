@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Sumanta Bose</title>
+    <link>http://sumantabose.me/new-site/publications/</link>
+    <description>Recent content in Publications on Sumanta Bose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 10 Jun 2018 22:00:25 +0800</lastBuildDate>
+    
+	<atom:link href="http://sumantabose.me/new-site/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications</title>
+      <link>http://sumantabose.me/new-site/publications/pubs/</link>
+      <pubDate>Sun, 10 Jun 2018 22:00:25 +0800</pubDate>
+      
+      <guid>http://sumantabose.me/new-site/publications/pubs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
