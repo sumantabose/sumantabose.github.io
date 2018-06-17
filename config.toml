@@ -25,7 +25,7 @@ defaultContentLanguage = "en"
 
 [params.info]
 description = "Senior Research Engineer"
-title404 = "No sign of life! Try later :("
+title404 = "Site not found. Try later."
 
 [params.assets]
 favicon = "favicon.ico"
