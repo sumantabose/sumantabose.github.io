@@ -1,0 +1,20 @@
+<div class="row">
+  <div class="8u 12u$(xsmall) list-in-news">
+    <h3>Details publication</h3>
+
+    <ul class="alt mix-container">
+
+      {{ $date := .Get "date" }}
+
+      {{range $.Page.Site.Data.publications }}
+        {{range . }}
+          {{range where .data "Date" $date }}
+            {{ partial "components/publication-list-item.html" . }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+
+    </ul>
+    More information in the <a href="/research">Research</a> section
+  </div>
+</div>

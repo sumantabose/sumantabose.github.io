@@ -1,0 +1,30 @@
+<div class="masonry-item">
+  <div class="card">
+    <div class="card-header">
+      <div class="card-header-mask">
+        <div class="card-header-date">
+          <div class="card-header-date-day">12</div>
+          <div class="card-header-date-month">May</div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <div class="card-body-header">
+        <div class="card-body-header-category">{{ .Type }}</div>
+        <h3>{{ .Name }}</h3>
+        <p class="card-body-header-sentence">
+          {{ .Venue }}
+        </p>
+      </div>
+      <p class="card-body-description">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Molestias autem aliquid, recusandae maiores iste fuga,
+        explicabo dolor vitae magnam!
+      </p>
+      <div class="card-body-footer">
+        <i class="icon style1 fa-map-marker"></i> {{ .Location }}
+        <i class="icon style1 fa-eye"></i> {{ .Projects }}
+      </div>
+    </div>
+  </div>
+</div>

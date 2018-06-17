@@ -1,0 +1,48 @@
+.events, .press, .research, .news, .list-in-news {
+
+  .list-details, .reference, .news-summary {
+    margin-top: 10;
+
+    span {
+      margin-right: (_size(element-margin)*0.5);
+      font-size: 10pt;
+
+    }
+  }
+
+  .reference {
+    margin: (_size(element-margin)*0.5) 0 (_size(element-margin)*0.5) (_size(element-margin)*0.5);
+    display: none;
+  }
+
+  button.active {
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5) inset, 0px 0px 1px transparent;
+    background: #3a9fbf;
+    color: white;
+  }
+
+  .center-cropped {
+    object-fit: cover;       /* Scale the image so it covers whole area, thus will likely crop */
+    object-position: center; /* Center the image within the element */
+    height: 150px;
+    width: 100%;
+    margin: (_size(element-margin)*0.3) 0 (_size(element-margin)*0.1) 0;
+    z-index: 1000000;
+  }
+}
+
+.mix-item {
+	display: none;
+}
+
+.news {
+  p {
+    margin: 0;
+    padding: 0;
+    display: inline;
+  }
+
+  ul {
+    margin: 0 0 (_size(element-margin)*0.1);
+  }
+}
