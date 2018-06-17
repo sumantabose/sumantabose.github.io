@@ -8,5 +8,5 @@ menu:
   sidebar:
     identifier: blog
 weight: -240
-slug: docs
+slug: blog
 ---
