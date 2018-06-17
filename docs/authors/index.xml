@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Sumanta Bose</title>
-    <link>/authors/</link>
+    <link>http://sumantabose.me/new-site/authors/</link>
     <description>Recent content in Authors on Sumanta Bose</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://sumantabose.me/new-site/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Muniftanjim</title>
-      <link>/authors/muniftanjim/</link>
+      <link>http://sumantabose.me/new-site/authors/muniftanjim/</link>
       <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
       
-      <guid>/authors/muniftanjim/</guid>
+      <guid>http://sumantabose.me/new-site/authors/muniftanjim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sumantabose</title>
-      <link>/authors/sumantabose/</link>
+      <link>http://sumantabose.me/new-site/authors/sumantabose/</link>
       <pubDate>Thu, 14 Jun 2018 03:21:27 +0800</pubDate>
       
-      <guid>/authors/sumantabose/</guid>
+      <guid>http://sumantabose.me/new-site/authors/sumantabose/</guid>
       <description></description>
     </item>
     
