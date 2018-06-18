@@ -16,9 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://sumantabose.me/new-site/about/</guid>
-      <description>I was once a kid.
-And then I grew up.
-Sad.</description>
+      <description>I am a Senior Research Engineer in the School of Computer Science and Engineering at Nanyang Technological University (NTU) Singapore. I work on full-stack distributed ledger technology system research, with specialization in blockchain. Currently, I’m developing our group’s in-house application agnostic blockchain platform. I also have working experience with Ethereum, Corda and Hyperledger platforms. Prior to this, I completed by PhD from the School of Electrical and Electronic Engineering at NTU Singapore.</description>
     </item>
     
     <item>
@@ -28,15 +26,6 @@ Sad.</description>
       
       <guid>http://sumantabose.me/new-site/research/</guid>
       <description>This page is about research.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>http://sumantabose.me/new-site/publications/all/</link>
-      <pubDate>Sun, 10 Jun 2018 22:00:25 +0800</pubDate>
-      
-      <guid>http://sumantabose.me/new-site/publications/all/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -104,16 +93,6 @@ Setting config values $ git config --list (to check username &amp;amp; email in 
       <description>Here is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Heading 2 Another one. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Heading 3 Yet another, but centered! Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://sumantabose.me/new-site/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://sumantabose.me/new-site/</guid>
-      <description>title: Publications linkTitle: Publications description: Some black text on white paper published somewhere. hey date: 2018-06-10T22:00:25+08:00 menu: - main - sidebar weight: -250
-slug: publications This page is about publications. &amp;ndash;&amp;gt;</description>
     </item>
     
   </channel>

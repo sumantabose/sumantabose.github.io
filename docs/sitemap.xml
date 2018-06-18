@@ -17,7 +17,7 @@
   </url>
   
   <url>
-    <loc>http://sumantabose.me/new-site/publications/all/</loc>
+    <loc>http://sumantabose.me/new-site/publications/</loc>
     <lastmod>2018-06-10T22:00:25+08:00</lastmod>
   </url>
   
@@ -65,10 +65,6 @@
   </url>
   
   <url>
-    <loc>http://sumantabose.me/new-site/</loc>
-  </url>
-  
-  <url>
     <loc>http://sumantabose.me/new-site/authors/</loc>
   </url>
   
@@ -100,12 +96,6 @@
   
   <url>
     <loc>http://sumantabose.me/new-site/page/</loc>
-    <lastmod>2018-06-10T22:00:25+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://sumantabose.me/new-site/publications/</loc>
     <lastmod>2018-06-10T22:00:25+08:00</lastmod>
     <priority>0</priority>
   </url>
