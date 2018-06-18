@@ -53,7 +53,11 @@
 
     <!-- {{ if .Website }} <a href="{{ .Website }}" target="_blank"><span style="background-color: #999999;">URL</span></a> {{ else }}{{ end }}<br/><br/> -->
 
-    {{ if .Website }} <a href="{{ .Website }}" target="_blank"><i class="fa fa-external-link"></i> {{ else }}{{ end }}<br/><br/>
+    {{ if .Slide }} <a href="{{ .Slide }}" target="_blank"><i class="fa fa-play"></i> {{ else }}{{ end }} &middot;
+
+    {{ if .Website }} <a href="{{ .Website }}" target="_blank"><i class="fa fa-external-link"></i> {{ else }}{{ end }} 
+
+    <br/><br/>
 
   </span><!-- <br/> -->
 
