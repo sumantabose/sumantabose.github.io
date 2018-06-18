@@ -8,17 +8,17 @@
 
   <span class="list-header">
     {{if eq (slicestr .Download 0 4) "http"}}
-      <a href="{{.Download }}" target="_blank">{{ .Title }}</a>,
+      <a href="{{.Download }}" target="_blank">{{ .Title }}</a>.
     {{ else }}
-      <a href="{{ .Site.BaseURL }}/downloads/publications/{{.Download }}" target="_blank">{{ .Title }}</a>,
+      <a href="{{ .Site.BaseURL }}/downloads/publications/{{.Download }}" target="_blank">{{ .Title }}</a>.
     {{ end }}<br/>
 
     {{ $count := sub (len .Authors) 1 }}
 
     {{ if eq $count 0 }}
-      <i>Author:</i> 
+      <i>Author:</i> <!-- <i class="fa fa-user"></i>  -->
     {{ else }}
-      <i>Authors:</i> 
+      <i>Authors:</i> <!-- <i class="fa fa-users"></i> --> 
     {{ end }}
     {{ range $index, $element := .Authors }}
       {{range split $element.first " " }}
@@ -59,11 +59,8 @@
 
 
 
-
-
-
-  <div class="list-details">
-<!--     {{ $count := sub (len .Authors) 1 }}
+<!--   <div class="list-details">
+    {{ $count := sub (len .Authors) 1 }}
 
     {{ if eq $count 0 }}
       <span class="icon style1 fa-user">
@@ -78,9 +75,9 @@
       {{ $element.last }}{{ if eq $index $count }}{{ else if eq $index (sub $count 1) }} & {{ else }},{{ end }}
     {{ end }}
 
-    </span> -->
+    </span>
 
-<!--     {{ if eq .Type "book-chapter" }}
+    {{ if eq .Type "book-chapter" }}
       <span class="icon style1 fa-book"> Book Chapter</span>
     {{ else if eq .Type "journal"}}
       <span class="icon style1 fa-newspaper-o"> Journal Article</span>
@@ -92,19 +89,19 @@
       <span class="icon style1 fa-lightbulb-o"> Patent</span>
     {{ else if eq .Type "thesis" }}
       <span class="icon style1 fa-book"> PhD Thesis</span>
-    {{ end }} -->
+    {{ end }}
 
-<!--     {{ if .Date }} <span class="icon style1 fa-calendar"> {{ .Date | dateFormat "Monday, Jan 2, 2006" }}</span> {{ end }} -->
+    {{ if .Date }} <span class="icon style1 fa-calendar"> {{ .Date | dateFormat "Monday, Jan 2, 2006" }}</span> {{ end }}
 
 
-<!--     {{ if .Location }}
+    {{ if .Location }}
       <span class="icon style1 fa-map-marker"> {{.Location }} </span>
-    {{ end }} -->
+    {{ end }}
 
-<!--     <span class="icon style1 fa-external-link"> {{ if .Website }} <a href="{{ .Website }}" target="_blank">{{.Publisher }}</a> {{ else }}{{ .Publisher }}{{ end }}</span> -->
+    <span class="icon style1 fa-external-link"> {{ if .Website }} <a href="{{ .Website }}" target="_blank">{{.Publisher }}</a> {{ else }}{{ .Publisher }}{{ end }}</span>
 
-<!--     <span class="icon style1 fa-caret-down"><a href="#" class="reference-toggle"> Show Full Citation</a></span> -->
-  </div>
+    <span class="icon style1 fa-caret-down"><a href="#" class="reference-toggle"> Show Full Citation</a></span>
+  </div> -->
 
 <!--   <div class="reference">
     <span>

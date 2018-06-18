@@ -8,6 +8,54 @@
 </div>
 {{ end }}
 
+  <div id="main">
+    <div class="inner">
+<!--       <h1>{{ .Title }}</h1>
+
+      {{ .Content }} -->
+
+      <section class="research">
+        <!-- <div class="2u">
+          <span>Filter: </span>
+        </div>
+        <div class="6u">
+          <div class="select-wrapper">
+            <select name="filter-category" id="research-category">
+              <option value="all">All Publications</option>
+              <option value=".thesis">PhD Thesis</option>
+              <option value=".book-chapter">Book Chapters</option>
+              <option value=".journal">Journal Articles</option>
+              <option value=".conference">Conference Papers</option>
+              <option value=".other">Other Articles</option>
+              <option value=".patent">Patents</option>
+            </select>
+          </div>
+        </div> -->
+
+        <br>
+
+        <div class="row">
+          <div class="8u 12u$(xsmall)">
+            {{range $.Site.Data.publications }}
+            {{range . }}
+
+            <h2 class="{{ .year }}">{{ .year }}</h2>
+            <ul class="alt mix-container">
+              {{range .data }}
+              {{ partial "components/publication-list-item" . }}
+              {{ end }}
+
+            </ul>
+
+            {{ end }}
+            {{ end }}
+          </div>
+        </div>
+      </section>
+
+    </div>
+  </div>
+
 <div class='container list-container'>
   <ul class='list'>
     {{ range .Paginator.Pages }}
