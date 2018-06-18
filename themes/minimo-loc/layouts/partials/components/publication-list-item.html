@@ -1,3 +1,7 @@
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
 <li class="mix-item {{ .Type }}">
 
   
@@ -42,12 +46,14 @@
     {{ end }}<br/>
 
     {{if eq (slicestr .Download 0 4) "http"}}
-      <a href="{{.Download }}" target="_blank"><span style="background-color: #999999;">Download</span></a>
+      <a href="{{.Download }}" target="_blank"><i class="fa fa-download"></i></a>
     {{ else }}
-      <a href="{{ .Site.BaseURL }}/downloads/publications/{{.Download }}" target="_blank"><span style="background-color: #999999;">Download</span></a>
+      <a href="{{ .Site.BaseURL }}/downloads/publications/{{.Download }}" target="_blank"><i class="fa fa-download"></i></a>
     {{ end }} &middot;
 
-    {{ if .Website }} <a href="{{ .Website }}" target="_blank"><span style="background-color: #999999;">URL</span></a> {{ else }}{{ end }}<br/><br/>
+    <!-- {{ if .Website }} <a href="{{ .Website }}" target="_blank"><span style="background-color: #999999;">URL</span></a> {{ else }}{{ end }}<br/><br/> -->
+
+    {{ if .Website }} <a href="{{ .Website }}" target="_blank"><i class="fa fa-external-link"></i> {{ else }}{{ end }}<br/><br/>
 
   </span><!-- <br/> -->
 
