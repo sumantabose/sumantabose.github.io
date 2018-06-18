@@ -5,9 +5,13 @@ menu:
   - sidebar
 weight: -280
 ---
-> Choose a job you love, and you will never have to work a day in your life.
->
-> — Confucius
+![The General Problem](https://imgs.xkcd.com/comics/the_general_problem.png "I find that when someone's taking time to do something right in the present, they're a perfectionist with no ability to prioritize, whereas when someone took time to do something right in the past, they're a master artisan of great foresight.")<br/>
+Source: [xkcd](https://xkcd.com/974/)
+
+> Time you enjoy wasting is not wasted time.
+> — [Unknown](https://quoteinvestigator.com/2010/06/11/time-you-enjoy/)
+
+<!-- — John Lennon/Bertrand Russell/Laurence J. Peter/Marthe Troly-Curtin/T. S. Elliot/Soren Kierkegaard -->
 
 
 <!-- <p>I ♥ <i class="fa fa-coffee"></i></p> -->
