@@ -10,7 +10,7 @@
     {{if eq (slicestr .Download 0 4) "http"}}
       <a href="{{.Download }}" target="_blank">{{ .Title }}</a>
     {{ else }}
-      <a href="{{ .Site.BaseURL }}/downloads/publications/{{.Download }}" target="_blank">{{ .Title }}</a>
+      <a href="{{ .Site.BaseURL }}/static/downloads/publications/{{.Download }}" target="_blank">{{ .Title }}</a>
     {{ end }}<br/>
 
     {{ $count := sub (len .Authors) 1 }}
@@ -48,7 +48,7 @@
     {{if eq (slicestr .Download 0 4) "http"}}
       <a href="{{.Download }}" target="_blank"><i class="fa fa-download"></i></a>
     {{ else }}
-      <a href="{{ .Site.BaseURL }}/downloads/publications/{{.Download }}" target="_blank"><i class="fa fa-download"></i></a>
+      <a href="{{ .Site.BaseURL }}/static/downloads/publications/{{.Download }}" target="_blank"><i class="fa fa-download"></i></a>
     {{ end }} &middot;
 
     <!-- {{ if .Website }} <a href="{{ .Website }}" target="_blank"><span style="background-color: #999999;">URL</span></a> {{ else }}{{ end }}<br/><br/> -->
