@@ -8,9 +8,9 @@
 
   <span class="list-header">
     {{if eq (slicestr .Download 0 4) "http"}}
-      <a href="{{.Download }}" target="_blank">{{ .Title }}</a>.
+      <a href="{{.Download }}" target="_blank">{{ .Title }}</a>
     {{ else }}
-      <a href="{{ .Site.BaseURL }}/downloads/publications/{{.Download }}" target="_blank">{{ .Title }}</a>.
+      <a href="{{ .Site.BaseURL }}/static/downloads/publications/{{.Download }}" target="_blank">{{ .Title }}</a>
     {{ end }}<br/>
 
     {{ $count := sub (len .Authors) 1 }}
@@ -32,9 +32,9 @@
     {{ else if eq .Type "journal" }}
         <i>Journal:</i> {{ .Journal }}.
     {{ else if eq .Type "conference" }}
-        <i>Conference:</i> {{ .Conference }}
+        <i>Conference:</i> {{ .Conference }}.
     {{ else if eq .Type "other" }}.
-        <i>Publisher:</i> {{ .Journal }}
+        <i>Publisher:</i> {{ .Journal }}.
     {{ else if eq .Type "patent" }}
         <i>Patent:</i> {{ .Number }}.
     {{ else if eq .Type "thesis" }}
@@ -48,12 +48,12 @@
     {{if eq (slicestr .Download 0 4) "http"}}
       <a href="{{.Download }}" target="_blank"><i class="fa fa-download"></i></a>
     {{ else }}
-      <a href="{{ .Site.BaseURL }}/downloads/publications/{{.Download }}" target="_blank"><i class="fa fa-download"></i></a>
+      <a href="{{ .Site.BaseURL }}/static/downloads/publications/{{.Download }}" target="_blank"><i class="fa fa-download"></i></a>
     {{ end }} &middot;
 
     <!-- {{ if .Website }} <a href="{{ .Website }}" target="_blank"><span style="background-color: #999999;">URL</span></a> {{ else }}{{ end }}<br/><br/> -->
 
-    {{ if .Slide }} <a href="{{ .Slide }}" target="_blank"><i class="fa fa-play"></i> {{ else }}{{ end }} &middot;
+    {{ if .Slide }} <a href="{{ .Slide }}" target="_blank"><i class="fa fa-play"></i> &middot; {{ else }}{{ end }} 
 
     {{ if .Website }} <a href="{{ .Website }}" target="_blank"><i class="fa fa-external-link"></i> {{ else }}{{ end }} 
 
