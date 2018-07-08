@@ -6,6 +6,7 @@ categories:
   - tutorials
 tags:
   - git
+toc: true
 slug: git-playground
 ---
 
