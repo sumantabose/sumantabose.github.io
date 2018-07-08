@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Sumanta Bose</title>
-    <link>http://sumantabose.me/new-site/publications/</link>
+    <link>http://sumantabose.github.io/publications/</link>
     <description>Recent content in Publications on Sumanta Bose</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 10 Jun 2018 22:00:25 +0800</lastBuildDate>
     
-	<atom:link href="http://sumantabose.me/new-site/publications/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://sumantabose.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

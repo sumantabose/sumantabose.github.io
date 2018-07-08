@@ -5,8 +5,10 @@ echo -e "\n\t Add, Commit, Remote Add and Push to Git initiated ...\n"
 read -e -p "Enter the commit comment: " comment
 
 cd hugo-src/
+rm -r docs/
 hugo
 cd ..
+echo sumantabose.me > CNAME
 
 cp -r hugo-src/docs/* .
 git add .

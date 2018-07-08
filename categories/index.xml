@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sumanta Bose</title>
-    <link>http://sumantabose.me/categories/</link>
+    <link>http://sumantabose.github.io/categories/</link>
     <description>Recent content in Categories on Sumanta Bose</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="http://sumantabose.me/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://sumantabose.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tutorials</title>
-      <link>http://sumantabose.me/categories/tutorials/</link>
+      <link>http://sumantabose.github.io/categories/tutorials/</link>
       <pubDate>Thu, 14 Jun 2018 03:21:27 +0800</pubDate>
       
-      <guid>http://sumantabose.me/categories/tutorials/</guid>
+      <guid>http://sumantabose.github.io/categories/tutorials/</guid>
       <description></description>
     </item>
     
