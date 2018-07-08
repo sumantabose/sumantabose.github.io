@@ -2,64 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sumanta Bose</title>
-    <link>https://sumantabose.me/tags/</link>
+    <link>https://sumantabose.me/new-site/tags/</link>
     <description>Recent content in Tags on Sumanta Bose</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://sumantabose.me/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sumantabose.me/new-site/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Configuration</title>
-      <link>https://sumantabose.me/tags/config/</link>
+      <link>https://sumantabose.me/new-site/tags/config/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sumantabose.me/tags/config/</guid>
+      <guid>https://sumantabose.me/new-site/tags/config/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ethereum</title>
-      <link>https://sumantabose.me/tags/ethereum/</link>
+      <link>https://sumantabose.me/new-site/tags/ethereum/</link>
       <pubDate>Thu, 14 Jun 2018 03:21:27 +0800</pubDate>
       
-      <guid>https://sumantabose.me/tags/ethereum/</guid>
+      <guid>https://sumantabose.me/new-site/tags/ethereum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Git</title>
-      <link>https://sumantabose.me/tags/git/</link>
+      <link>https://sumantabose.me/new-site/tags/git/</link>
       <pubDate>Thu, 14 Jun 2018 03:18:27 +0800</pubDate>
       
-      <guid>https://sumantabose.me/tags/git/</guid>
+      <guid>https://sumantabose.me/new-site/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Opengraph</title>
-      <link>https://sumantabose.me/tags/og/</link>
+      <link>https://sumantabose.me/new-site/tags/og/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sumantabose.me/tags/og/</guid>
+      <guid>https://sumantabose.me/new-site/tags/og/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Smart-contract</title>
-      <link>https://sumantabose.me/tags/smart-contract/</link>
+      <link>https://sumantabose.me/new-site/tags/smart-contract/</link>
       <pubDate>Thu, 14 Jun 2018 03:21:27 +0800</pubDate>
       
-      <guid>https://sumantabose.me/tags/smart-contract/</guid>
+      <guid>https://sumantabose.me/new-site/tags/smart-contract/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Truffle</title>
-      <link>https://sumantabose.me/tags/truffle/</link>
+      <link>https://sumantabose.me/new-site/tags/truffle/</link>
       <pubDate>Thu, 14 Jun 2018 03:20:27 +0800</pubDate>
       
-      <guid>https://sumantabose.me/tags/truffle/</guid>
+      <guid>https://sumantabose.me/new-site/tags/truffle/</guid>
       <description></description>
     </item>
     

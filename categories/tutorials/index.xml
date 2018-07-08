@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorials on Sumanta Bose</title>
-    <link>https://sumantabose.me/categories/tutorials/</link>
+    <link>https://sumantabose.me/new-site/categories/tutorials/</link>
     <description>Recent content in Tutorials on Sumanta Bose</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 14 Jun 2018 03:21:27 +0800</lastBuildDate>
     
-	<atom:link href="https://sumantabose.me/categories/tutorials/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sumantabose.me/new-site/categories/tutorials/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Building Robust Smart Contracts with OpenZeppelin</title>
-      <link>https://sumantabose.me/blog/robust-smart-contracts-openzeppelin/</link>
+      <link>https://sumantabose.me/new-site/blog/robust-smart-contracts-openzeppelin/</link>
       <pubDate>Thu, 14 Jun 2018 03:21:27 +0800</pubDate>
       
-      <guid>https://sumantabose.me/blog/robust-smart-contracts-openzeppelin/</guid>
+      <guid>https://sumantabose.me/new-site/blog/robust-smart-contracts-openzeppelin/</guid>
       <description>Source  http://truffleframework.com/tutorials/robust-smart-contracts-with-openzeppelin https://openzeppelin.org/ http://truffleframework.com/tutorials/  Overview This tutorial will cover:
  Unboxing the front-end application Creating the &amp;ldquo;TutorialToken&amp;rdquo; smart contract Compiling and deploying the smart contract Interacting with the new token  Steps  Install Truffle. sh $ npm install -g truffle  Install tutorialtoken truffle box in a directory tutorial-token. sh $ mkdir tutorial-token $ cd tutorial-token $ truffle unbox tutorialtoken  Next, we&amp;rsquo;ll install OpenZeppelin. The most recent version of OpenZeppelin can be found as an npm package.</description>
     </item>
     
     <item>
       <title>Truffle pet-shop installation and setup guide</title>
-      <link>https://sumantabose.me/blog/truffle-pet-shop-guide/</link>
+      <link>https://sumantabose.me/new-site/blog/truffle-pet-shop-guide/</link>
       <pubDate>Thu, 14 Jun 2018 03:20:27 +0800</pubDate>
       
-      <guid>https://sumantabose.me/blog/truffle-pet-shop-guide/</guid>
+      <guid>https://sumantabose.me/new-site/blog/truffle-pet-shop-guide/</guid>
       <description>Sources  http://truffleframework.com/boxes/pet-shop http://truffleframework.com/tutorials/pet-shop http://truffleframework.com/tutorials/  Steps to install and setup by cloning this repository  Install Truffle if you don&amp;rsquo;t already have it. sh $ npm install -g truffle  Clone this repository and access it&amp;rsquo;s root directory sh $ git clone https://github.com/sumantabose/pet-shop-ethereum-truffle.git $ cd pet-shop-ethereum-truffle  In the pet-shop-ethereum-truffle/ root directory truffle compile the smart contracts (see step 5 and 6 below). sh $ truffle compile  Download, install and run Ganache (step 7 below).</description>
     </item>
     
     <item>
       <title>Developing Ethereum Smart Contracts for Beginners</title>
-      <link>https://sumantabose.me/blog/ethereum-smart-contract-beginners/</link>
+      <link>https://sumantabose.me/new-site/blog/ethereum-smart-contract-beginners/</link>
       <pubDate>Thu, 14 Jun 2018 03:19:27 +0800</pubDate>
       
-      <guid>https://sumantabose.me/blog/ethereum-smart-contract-beginners/</guid>
+      <guid>https://sumantabose.me/new-site/blog/ethereum-smart-contract-beginners/</guid>
       <description>Learn how to code Ethereum smart contracts from scratch About the tutorial series
 This tutorial series follows the content in this coursetro course. It will teach you to create and deploy ethereum smart contracts. Smart contracts allow you to create decentralized apps that can harness the power of the blockchain for a wide variety of use cases.
 This course assumes you have no prior experience with creating smart contracts. You&amp;rsquo;re going to go from absolute beginner to an intermediate understanding in a very fast amount of time.</description>
@@ -42,10 +42,10 @@ This course assumes you have no prior experience with creating smart contracts. 
     
     <item>
       <title>Git-Playground</title>
-      <link>https://sumantabose.me/blog/git-playground/</link>
+      <link>https://sumantabose.me/new-site/blog/git-playground/</link>
       <pubDate>Thu, 14 Jun 2018 03:18:27 +0800</pubDate>
       
-      <guid>https://sumantabose.me/blog/git-playground/</guid>
+      <guid>https://sumantabose.me/new-site/blog/git-playground/</guid>
       <description>This is a playground to learn and practice git commands and implementation details. Here we will learn how Git works.
 Setting config values $ git config --list (to check username &amp;amp; email in local repo) $ git config --local user.name &amp;#34;username&amp;#34; (local repo) $ git config --local user.email &amp;#34;useremail@domain.com&amp;#34; (local repo) $ git config --global user.name &amp;#34;username&amp;#34; (global systemwide) $ git config --global user.email &amp;#34;useremail@domain.com&amp;#34; (global systemwide) Setting credential values $ git config credential.</description>
     </item>
