@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Sumanta Bose</title>
+    <link>https://sumantabose.me/categories/</link>
+    <description>Recent content in Categories on Sumanta Bose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://sumantabose.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tutorials</title>
+      <link>https://sumantabose.me/categories/tutorials/</link>
+      <pubDate>Thu, 14 Jun 2018 03:21:27 +0800</pubDate>
+      
+      <guid>https://sumantabose.me/categories/tutorials/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

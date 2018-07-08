@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opengraph on Sumanta Bose</title>
+    <link>https://sumantabose.me/tags/og/</link>
+    <description>Recent content in Opengraph on Sumanta Bose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://sumantabose.me/tags/og/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
