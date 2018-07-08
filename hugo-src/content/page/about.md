@@ -1,6 +1,7 @@
 ---
 title: About
 description: What is the story of my life?
+date: 2018-06-10T22:00:25+08:00
 menu:
   - main
   - sidebar
