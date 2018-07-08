@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Sumanta Bose</title>
+    <link>http://sumantabose.me/new-site/page/</link>
+    <description>Recent content in Pages on Sumanta Bose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 10 Jun 2018 22:00:25 +0800</lastBuildDate>
+    
+	<atom:link href="http://sumantabose.me/new-site/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://sumantabose.me/new-site/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://sumantabose.me/new-site/about/</guid>
+      <description>I am a Senior Research Engineer in the School of Computer Science and Engineering at Nanyang Technological University (NTU) Singapore. I work on full-stack distributed ledger technology system research, with specialization in blockchain. Currently, I’m developing our group’s in-house application agnostic blockchain platform. I also have working experience with Ethereum, Corda and Hyperledger platforms. Prior to this, I completed by PhD from the School of Electrical and Electronic Engineering at NTU Singapore.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://sumantabose.me/new-site/research/</link>
+      <pubDate>Sun, 10 Jun 2018 22:00:25 +0800</pubDate>
+      
+      <guid>http://sumantabose.me/new-site/research/</guid>
+      <description>Current Research My current work is on full-stack distributed ledger technology system research, with specialization in blockchain implementation and application.
+Distributed Ledger Technology Distributed ledgers are managed by a peer-to-peer network collectively adhering to some consensus protocol. A blockchain is only one type of data structure considered to be a distributed ledger, that was originally designed to be open, permissionless and public for cryptocurrencies. However, over time several access controlled, permissioned and private alternatives have evolved for catering to large-scale multi-party transaction management applications undertaken by industries and corporations.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://sumantabose.me/new-site/contact/</link>
+      <pubDate>Sun, 10 Jun 2018 22:00:25 +0800</pubDate>
+      
+      <guid>http://sumantabose.me/new-site/contact/</guid>
+      <description>Sumanta Bose
+Hardware &amp;amp; Embedded Systems Lab
+N4-B2B-05, Blk N4, 50 Nanyang Avenue
+Computer Science and Engineering
+Nanyang Technological University
+Singapore - 639798
+Email: sumanta001@e.ntu.edu.sg
+Phone: +65 98612535</description>
+    </item>
+    
+    <item>
+      <title>Typography</title>
+      <link>http://sumantabose.me/new-site/typography/</link>
+      <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
+      
+      <guid>http://sumantabose.me/new-site/typography/</guid>
+      <description>Here is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Heading 2 Another one. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Heading 3 Yet another, but centered! Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+  </channel>
+</rss>
