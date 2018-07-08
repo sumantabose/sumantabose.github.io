@@ -76,7 +76,7 @@ publications:
             last: Zhang
         Conference: "2017 Conference on Lasers and Electro-Optics Pacific Rim (CLEO-PR)"
         Date: 2017-07-31
-        Download: "excitonic-absorption-quasi-2D-CdSe-NPLs.pdf"
+        Download: excitonic-absorption-quasi-2D-CdSe-NPLs.pdf
         Location: "Singapore, Singapore"
         Pages: 1-3
         Publisher: "Institute of Electrical and Electronics Engineers (IEEE)"
@@ -84,3 +84,24 @@ publications:
         Type: conference
         Website: "https://ieeexplore.ieee.org/abstract/document/8118817/"
     year: "2017"
+  - 
+    data: 
+      - 
+        Address: "Bangalore, India"
+        Authors: 
+          - 
+            first: Sumanta
+            last: Bose
+          - 
+            first: KJ
+            last: Vinoy
+        Conference: "2013 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT)"
+        Date: 2013-01-17
+        Download: group-delay-cascaded-APF.pdf
+        Location: "Singapore, Singapore"
+        Pages: 1-5
+        Publisher: "Institute of Electrical and Electronics Engineers (IEEE)"
+        Title: "Group delay engineering using cascaded all pass filters for wideband chirp waveform generation"
+        Type: conference
+        Website: "https://ieeexplore.ieee.org/abstract/document/6469308/"
+    year: "2013"

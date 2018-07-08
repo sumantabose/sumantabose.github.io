@@ -88,5 +88,27 @@ publications:
       Publisher: Institute of Electrical and Electronics Engineers (IEEE)
       Address: Singapore, Singapore
       Website: https://ieeexplore.ieee.org/abstract/document/8118817/
-      Download: https://github.com/sumantabose/new-site/blob/master/static/downloads/publications/excitonic-absorption-quasi-2D-CdSe-NPLs.pdf
+      Download: excitonic-absorption-quasi-2D-CdSe-NPLs.pdf
+
+- year: '2013'
+  data:
+
+    - Date: 2013-01-17
+      Type: conference
+      Authors:
+        -
+          first: Sumanta
+          last: Bose
+        -
+          first: KJ
+          last: Vinoy
+
+      Title: Group delay engineering using cascaded all pass filters for wideband chirp waveform generation
+      Conference: 2013 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT)
+      Location: Singapore, Singapore
+      Pages: 1-5
+      Publisher: Institute of Electrical and Electronics Engineers (IEEE)
+      Address: Bangalore, India
+      Website: https://ieeexplore.ieee.org/abstract/document/6469308/
+      Download: group-delay-cascaded-APF.pdf
 
