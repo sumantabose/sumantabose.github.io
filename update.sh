@@ -8,6 +8,7 @@ cd hugo-src/
 rm -r docs/
 hugo
 cd ..
+
 echo sumantabose.me > CNAME
 
 cp -r hugo-src/docs/* .
