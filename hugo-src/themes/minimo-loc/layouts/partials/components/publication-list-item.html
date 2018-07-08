@@ -1,0 +1,120 @@
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<li class="mix-item {{ .Type }}">
+
+  
+
+  <span class="list-header">
+    {{if eq (slicestr .Download 0 4) "http"}}
+      <a href="{{.Download }}" target="_blank">{{ .Title }}</a>
+    {{ else }}
+      <a href="{{ .Site.BaseURL }}/static/downloads/publications/{{.Download }}" target="_blank">{{ .Title }}</a>
+    {{ end }}<br/>
+
+    {{ $count := sub (len .Authors) 1 }}
+
+    {{ if eq $count 0 }}
+      <i>Author:</i> <!-- <i class="fa fa-user"></i>  -->
+    {{ else }}
+      <i>Authors:</i> <!-- <i class="fa fa-users"></i> --> 
+    {{ end }}
+    {{ range $index, $element := .Authors }}
+      {{range split $element.first " " }}
+        {{slicestr . 0 1}}.
+      {{ end }}
+      {{ $element.last }}{{ if eq $index $count }}.{{ else if eq $index (sub $count 1) }} & {{ else }},{{ end }}
+    {{ end }}<br/>
+
+    {{ if eq .Type "book-chapter" }}
+        <i>Book:</i> {{ .Book }}.
+    {{ else if eq .Type "journal" }}
+        <i>Journal:</i> {{ .Journal }}.
+    {{ else if eq .Type "conference" }}
+        <i>Conference:</i> {{ .Conference }}.
+    {{ else if eq .Type "other" }}.
+        <i>Publisher:</i> {{ .Journal }}.
+    {{ else if eq .Type "patent" }}
+        <i>Patent:</i> {{ .Number }}.
+    {{ else if eq .Type "thesis" }}
+        <i>Thesis:</i> {{ .Book }}.
+    {{ end }}<br/>
+
+    {{ if .Date }}
+      <i>Published on:</i> {{ .Date | dateFormat "Monday, Jan 2, 2006" }}.
+    {{ end }}<br/>
+
+    {{if eq (slicestr .Download 0 4) "http"}}
+      <a href="{{.Download }}" target="_blank"><i class="fa fa-download"></i></a>
+    {{ else }}
+      <a href="{{ .Site.BaseURL }}/static/downloads/publications/{{.Download }}" target="_blank"><i class="fa fa-download"></i></a>
+    {{ end }} &middot;
+
+    <!-- {{ if .Website }} <a href="{{ .Website }}" target="_blank"><span style="background-color: #999999;">URL</span></a> {{ else }}{{ end }}<br/><br/> -->
+
+    {{ if .Slide }} <a href="{{ .Slide }}" target="_blank"><i class="fa fa-play"></i> &middot; {{ else }}{{ end }} 
+
+    {{ if .Website }} <a href="{{ .Website }}" target="_blank"><i class="fa fa-external-link"></i> {{ else }}{{ end }} 
+
+    <br/><br/>
+
+  </span><!-- <br/> -->
+
+
+
+<!--   <div class="list-details">
+    {{ $count := sub (len .Authors) 1 }}
+
+    {{ if eq $count 0 }}
+      <span class="icon style1 fa-user">
+    {{ else }}
+      <span class="icon style1 fa-users">
+    {{ end }}
+
+    {{ range $index, $element := .Authors }}
+      {{range split $element.first " " }}
+        {{slicestr . 0 1}}.
+      {{ end }}
+      {{ $element.last }}{{ if eq $index $count }}{{ else if eq $index (sub $count 1) }} & {{ else }},{{ end }}
+    {{ end }}
+
+    </span>
+
+    {{ if eq .Type "book-chapter" }}
+      <span class="icon style1 fa-book"> Book Chapter</span>
+    {{ else if eq .Type "journal"}}
+      <span class="icon style1 fa-newspaper-o"> Journal Article</span>
+    {{ else if eq .Type "conference"}}
+      <span class="icon style1 fa-file-text-o"> Conference Paper</span>
+    {{ else if eq .Type "other"}}
+      <span class="icon style1 fa-file-image-o"> Other Article</span>
+    {{ else if eq .Type "patent"}}
+      <span class="icon style1 fa-lightbulb-o"> Patent</span>
+    {{ else if eq .Type "thesis" }}
+      <span class="icon style1 fa-book"> PhD Thesis</span>
+    {{ end }}
+
+    {{ if .Date }} <span class="icon style1 fa-calendar"> {{ .Date | dateFormat "Monday, Jan 2, 2006" }}</span> {{ end }}
+
+
+    {{ if .Location }}
+      <span class="icon style1 fa-map-marker"> {{.Location }} </span>
+    {{ end }}
+
+    <span class="icon style1 fa-external-link"> {{ if .Website }} <a href="{{ .Website }}" target="_blank">{{.Publisher }}</a> {{ else }}{{ .Publisher }}{{ end }}</span>
+
+    <span class="icon style1 fa-caret-down"><a href="#" class="reference-toggle"> Show Full Citation</a></span>
+  </div> -->
+
+<!--   <div class="reference">
+    <span>
+      {{ partial "formats/publication-apa" . }}
+    </span>
+  </div> -->
+
+<!--   {{ if .Image }}
+    <img class="center-cropped rounded" src="{{ .Site.BaseURL }}/images/press/{{ .Image }}"/>
+  {{ end }} -->
+
+</li>

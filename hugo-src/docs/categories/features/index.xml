@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Features on Sumanta Bose</title>
+    <link>/categories/features/</link>
+    <description>Recent content in Features on Sumanta Bose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 14 Jun 2018 03:21:27 +0800</lastBuildDate>
+    
+	<atom:link href="/categories/features/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Karma and its ways!</title>
+      <link>/blog/karma-ways/</link>
+      <pubDate>Thu, 14 Jun 2018 03:21:27 +0800</pubDate>
+      
+      <guid>/blog/karma-ways/</guid>
+      <description>Minimo supports multiple authors for your site. Just make sure you have the following configuration in your site&amp;rsquo;s config.toml:
+[taxonomies] author = &amp;#34;authors&amp;#34; Minimo treats Authors as a Hugo Taxonomy.
+Author&amp;rsquo;s Profile For adding an author to your site:
+ Create data/authors folder in your site&amp;rsquo;s root directory Create a file with the filename format: &amp;lt;username&amp;gt;.toml  Now, add information about the author using the structure below:
+/data/authors/muniftanjim.toml
+id = &amp;#34;muniftanjim&amp;#34; [email] username = &amp;#34;muniftanjim&amp;#34; host = &amp;#34;gmail.</description>
+    </item>
+    
+    <item>
+      <title>Why Donald Trump was a Joker in his last life</title>
+      <link>/blog/donald-trump-joker/</link>
+      <pubDate>Thu, 14 Jun 2018 03:20:27 +0800</pubDate>
+      
+      <guid>/blog/donald-trump-joker/</guid>
+      <description>Minimo supports multiple authors for your site. Just make sure you have the following configuration in your site&amp;rsquo;s config.toml:
+[taxonomies] author = &amp;#34;authors&amp;#34; Minimo treats Authors as a Hugo Taxonomy.
+Author&amp;rsquo;s Profile For adding an author to your site:
+ Create data/authors folder in your site&amp;rsquo;s root directory Create a file with the filename format: &amp;lt;username&amp;gt;.toml  Now, add information about the author using the structure below:
+/data/authors/muniftanjim.toml
+id = &amp;#34;muniftanjim&amp;#34; [email] username = &amp;#34;muniftanjim&amp;#34; host = &amp;#34;gmail.</description>
+    </item>
+    
+    <item>
+      <title>14 Ways of Defeating Fear</title>
+      <link>/blog/defeating-fear/</link>
+      <pubDate>Thu, 14 Jun 2018 03:19:27 +0800</pubDate>
+      
+      <guid>/blog/defeating-fear/</guid>
+      <description>Minimo supports multiple authors for your site. Just make sure you have the following configuration in your site&amp;rsquo;s config.toml:
+[taxonomies] author = &amp;#34;authors&amp;#34; Minimo treats Authors as a Hugo Taxonomy.
+Author&amp;rsquo;s Profile For adding an author to your site:
+ Create data/authors folder in your site&amp;rsquo;s root directory Create a file with the filename format: &amp;lt;username&amp;gt;.toml  Now, add information about the author using the structure below:
+/data/authors/muniftanjim.toml
+id = &amp;#34;muniftanjim&amp;#34; [email] username = &amp;#34;muniftanjim&amp;#34; host = &amp;#34;gmail.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sumanta Bose</title>
+    <link>http://sumantabose.me/new-site/tags/</link>
+    <description>Recent content in Tags on Sumanta Bose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="http://sumantabose.me/new-site/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Configuration</title>
+      <link>http://sumantabose.me/new-site/tags/config/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://sumantabose.me/new-site/tags/config/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethereum</title>
+      <link>http://sumantabose.me/new-site/tags/ethereum/</link>
+      <pubDate>Thu, 14 Jun 2018 03:21:27 +0800</pubDate>
+      
+      <guid>http://sumantabose.me/new-site/tags/ethereum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>http://sumantabose.me/new-site/tags/git/</link>
+      <pubDate>Thu, 14 Jun 2018 03:18:27 +0800</pubDate>
+      
+      <guid>http://sumantabose.me/new-site/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opengraph</title>
+      <link>http://sumantabose.me/new-site/tags/og/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://sumantabose.me/new-site/tags/og/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart-contract</title>
+      <link>http://sumantabose.me/new-site/tags/smart-contract/</link>
+      <pubDate>Thu, 14 Jun 2018 03:21:27 +0800</pubDate>
+      
+      <guid>http://sumantabose.me/new-site/tags/smart-contract/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Truffle</title>
+      <link>http://sumantabose.me/new-site/tags/truffle/</link>
+      <pubDate>Thu, 14 Jun 2018 03:20:27 +0800</pubDate>
+      
+      <guid>http://sumantabose.me/new-site/tags/truffle/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

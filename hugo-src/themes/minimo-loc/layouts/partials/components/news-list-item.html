@@ -1,0 +1,8 @@
+<li>
+  <span class="list-header"><a href="{{ .RelPermalink }}">{{ .Title }}</a></span>
+  <div class="list-details">
+    <span>{{ .Summary }}<span><br/>
+    <span class="icon style1 fa-calendar"> {{ .Date | dateFormat "Monday, Jan 2, 2006" }}</span>
+    <span class="icon style1 fa-external-link">  <a href="{{ .RelPermalink }}"><em>More…</em></a></span>
+  </div>
+</li>
