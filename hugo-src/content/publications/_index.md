@@ -8,3 +8,5 @@ menu:
   - sidebar
 weight: -250
 ---
+
+For a complete list check my [Google Scholar](https://scholar.google.com/citations?user=7ISycOUAAAAJ).
