@@ -16,8 +16,7 @@
       <pubDate>Sun, 10 Jun 2018 22:00:25 +0800</pubDate>
       
       <guid>https://sumantabose.me/about/</guid>
-      <description>Hey!
-I am a Senior Research Engineer in the School of Computer Science and Engineering at Nanyang Technological University (NTU) Singapore. I work on full-stack distributed ledger technology system research, with specialization in blockchain. Currently, I’m developing our group’s in-house application agnostic blockchain platform. I also have working experience with Ethereum, Corda and Hyperledger platforms. Prior to this, I completed my PhD from the School of Electrical and Electronic Engineering at NTU Singapore.</description>
+      <description>I am a Senior Research Engineer in the School of Computer Science and Engineering at Nanyang Technological University (NTU) Singapore. I work on full-stack distributed ledger technology system research, with specialization in blockchain. Currently, I’m developing our group’s in-house application agnostic blockchain platform. I also have working experience with Ethereum and Hyperledger platforms. Prior to this, I completed my PhD from the School of Electrical and Electronic Engineering at NTU Singapore.</description>
     </item>
     
     <item>
@@ -26,8 +25,9 @@ I am a Senior Research Engineer in the School of Computer Science and Engineerin
       <pubDate>Sun, 10 Jun 2018 22:00:25 +0800</pubDate>
       
       <guid>https://sumantabose.me/research/</guid>
-      <description>Current Research My current work is on full-stack distributed ledger technology system research, with specialization in blockchain implementation and application.
-Distributed Ledger Technology Distributed ledgers are managed by a peer-to-peer network collectively adhering to some consensus protocol. A blockchain is only one type of data structure considered to be a distributed ledger, that was originally designed to be open, permissionless and public for cryptocurrencies. However, over time several access controlled, permissioned and private alternatives have evolved for catering to large-scale multi-party transaction management applications undertaken by industries and corporations.</description>
+      <description>Here&amp;rsquo;s a funny take on academia - can&amp;rsquo;t agree more!  Source: Piled Higher and Deeper
+Current Research My current work is on full-stack distributed ledger technology system research, with specialization in blockchain implementation and application.
+Distributed Ledger Technology Distributed ledgers are managed by a peer-to-peer network collectively adhering to some consensus protocol. A blockchain is only one type of data structure considered to be a distributed ledger, that was originally designed to be open, permissionless and public for cryptocurrencies.</description>
     </item>
     
     <item>
@@ -36,7 +36,8 @@ Distributed Ledger Technology Distributed ledgers are managed by a peer-to-peer 
       <pubDate>Sun, 10 Jun 2018 22:00:25 +0800</pubDate>
       
       <guid>https://sumantabose.me/contact/</guid>
-      <description>Sumanta Bose
+      <description>Email is the best way to reach me, although &amp;hellip;  Source: Geeks are Sexy
+Sumanta Bose
 Hardware &amp;amp; Embedded Systems Lab
 N4-B2B-05, Blk N4, 50 Nanyang Avenue
 Computer Science and Engineering
