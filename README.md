@@ -1,6 +1,6 @@
 Hey!
 
-This is the repository for my website [https://sumantabose.me/](https://sumantabose.me/), powered by [Hugo](https://gohugo.io) and [Minimo](https://themes.gohugo.io/minimo/). The hugo source files are contained in the [source](https://github.com/sumantabose/source) repository.
+This is the repository for my website [https://sumantabose.me/](https://sumantabose.me/) – powered by [Hugo](https://gohugo.io) and [Minimo](https://themes.gohugo.io/minimo/). The hugo source files are contained in the [source](https://github.com/sumantabose/source) repository.
 
 If you'd like to replicate my website for your personal use, follow the 3 simple steps below.
 
